@@ -7,16 +7,17 @@ background_DATA =\
 	adwaita-night.jpg \
 	adwaita-timed.xml \
 	Blinds.jpg \
-	Bokeh_Tails.jpg \
+	BlueMarbleWest.jpg \
 	Chmiri.jpg \
-	Dark_Ivy.jpg \
 	Fabric.jpg \
-	Flowerbed.jpg \
 	FootFall.png \
 	Mirror.jpg \
 	Road.jpg \
 	Sandstone.jpg \
-	Stones.jpg \
+	Spaceflare.jpg \
+	Stripes.jpg \
+	Stripes34.jpg \
+	Sunset.png \
 	Terraform-green.jpg \
 	Spaceflare.jpg \
 	Stripes.jpg \
@@ -25,9 +26,10 @@ background_DATA =\
 	Terraform-green.jpg \
 	Tulip.jpg \
 	UnderLit.jpg \
+	Tulip.jpg \
 	Wood.jpg \
 	Waves.jpg \
-	Whispy_Tails.jpg
+	ZvonecKonec.jpg
 
 metadata_in_files = gnome-backgrounds.xml.in adwaita.xml.in
 metadatadir = $(datadir)/gnome-background-properties
