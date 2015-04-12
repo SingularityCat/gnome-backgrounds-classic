@@ -17,12 +17,12 @@ background_DATA =\
 	UnderLit.jpg \
 	Wood.jpg
 
-metadata_in_files = gnome-backgrounds-classic.xml.in adwaita-pi.xml.in
+metadata_in_files = gnome-backgrounds-classic.xml.in
 metadatadir = $(datadir)/gnome-background-properties
 metadata_DATA = $(metadata_in_files:.xml.in=.xml)
 @INTLTOOL_XML_RULE@
 
-noinst_DATA = gnome-backgrounds-classic.xml.in adwaita-pi.xml.in
+noinst_DATA = gnome-backgrounds-classic.xml.in
 CLEANFILES = gnome-backgrounds-classic.xml gnome-backgrounds-classic.xml.in adwaita-pi-timed.xml
 
 EXTRA_DIST = $(background_DATA) gnome-backgrounds-classic.xml.in.in adwaita-pi.xml.in.in adwaita-pi-timed.xml.in
