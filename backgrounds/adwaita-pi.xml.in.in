@@ -2,8 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <_name>Default Background</_name>
-    <filename>@datadir@/backgrounds/gnome/adwaita-timed.xml</filename>
+    <_name>Adwaita π</_name>
+    <filename>@datadir@/backgrounds/gnome/adwaita-pi-timed.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
