@@ -1,4 +1,7 @@
-gnome-backgrounds
-=================
+gnome-backgrounds-classic
+=========================
 
-This module contains a set of backgrounds packaged with the GNOME desktop.
+This module contains a selection of backgrounds that were packaged with the
+GNOME desktop, but were removed for 'refreshing'. This is designed to coexist
+with the regular gnome-backgrounds package.
+
