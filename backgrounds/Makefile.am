@@ -18,6 +18,14 @@ background_DATA =\
 	Sandstone.jpg \
 	Stones.jpg \
 	Terraform-green.jpg \
+	Spaceflare.jpg \
+	Stripes.jpg \
+	Stripes34.jpg \
+	Sunset.jpg \
+	Terraform-green.jpg \
+	Tulip.jpg \
+	UnderLit.jpg \
+	Wood.jpg \
 	Waves.jpg \
 	Whispy_Tails.jpg
 
