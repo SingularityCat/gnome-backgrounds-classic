@@ -6,10 +6,10 @@ background_DATA =\
 	adwaita-morning.jpg \
 	adwaita-night.jpg \
 	adwaita-timed.xml \
+	Aqua.jpg \
 	Blinds.jpg \
 	BlueMarbleWest.jpg \
 	Chmiri.jpg \
-	Fabric.jpg \
 	FootFall.png \
 	Mirror.jpg \
 	Road.jpg \
@@ -23,12 +23,24 @@ background_DATA =\
 	Stripes.jpg \
 	Stripes34.jpg \
 	Sunset.jpg \
+	FreshFlower.jpg \
+	Garden.jpg \
+	GreenMeadow.jpg \
+	Spaceflare.jpg \
+	Spaceflare-nova.jpg \
+  Stamps.jpg \
+	Stripes.jpg \
+	Stripes34.jpg \
+	SundownDunes.jpg \
+	Terraform-blue.jpg \
 	Terraform-green.jpg \
-	Tulip.jpg \
+	Terraform-orange.jpg \
+	TwoWings.jpg \
 	UnderLit.jpg \
 	Tulip.jpg \
 	Wood.jpg \
 	Waves.jpg \
+	YellowFlower.jpg \
 	ZvonecKonec.jpg
 
 metadata_in_files = gnome-backgrounds.xml.in adwaita.xml.in
