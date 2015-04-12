@@ -1,7 +1,7 @@
-AC_INIT([gnome-backgrounds],
+AC_INIT([gnome-backgrounds-classic],
         [3.16.0],
-        [http://bugzilla.gnome.org/browse.cgi?product=gnome-backgrounds],
-        [gnome-backgrounds])
+        [],
+        [gnome-backgrounds-classic])
 
 AC_CONFIG_MACRO_DIR([m4])
 
@@ -13,7 +13,7 @@ m4_ifdef([AM_SILENT_RULES], [AM_SILENT_RULES([yes])])
 # Internationalization:
 IT_PROG_INTLTOOL([0.40.0])
 
-GETTEXT_PACKAGE=gnome-backgrounds
+GETTEXT_PACKAGE=gnome-backgrounds-classic
 AC_SUBST(GETTEXT_PACKAGE)
 AC_DEFINE_UNQUOTED([GETTEXT_PACKAGE], ["$GETTEXT_PACKAGE"], [The domain name to use with gettext.])
 
