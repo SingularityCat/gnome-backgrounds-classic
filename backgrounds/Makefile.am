@@ -23,15 +23,11 @@ metadata_DATA = $(metadata_in_files:.xml.in=.xml)
 @INTLTOOL_XML_RULE@
 
 noinst_DATA = gnome-backgrounds-classic.xml.in adwaita-pi.xml.in
-CLEANFILES = gnome-backgrounds-classic.xml gnome-backgrounds-classic.xml.in adwaita-pi.xml adwaita-pi.xml.in adwaita-pi-timed.xml
+CLEANFILES = gnome-backgrounds-classic.xml gnome-backgrounds-classic.xml.in adwaita-pi-timed.xml
 
 EXTRA_DIST = $(background_DATA) gnome-backgrounds-classic.xml.in.in adwaita-pi.xml.in.in adwaita-pi-timed.xml.in
 
 edit = sed -e 's|@BACKGROUNDDIR[@]|$(backgrounddir)|g'
-
-adwaita-pi.xml.in: adwaita-pi.xml.in.in Makefile
-	$(AM_V_GEN) sed -e 's^\@datadir\@^$(datadir)^g' < $(srcdir)/adwaita-pi.xml.in.in > adwaita-pi.xml.in.tmp \
-	&& mv adwaita-pi.xml.in.tmp adwaita-pi.xml.in
 
 adwaita-pi-timed.xml: adwaita-pi-timed.xml.in Makefile
 	$(AM_V_GEN) sed -e 's^\@datadir\@^$(datadir)^g' < $(srcdir)/adwaita-pi-timed.xml.in > adwaita-pi-timed.xml.tmp \

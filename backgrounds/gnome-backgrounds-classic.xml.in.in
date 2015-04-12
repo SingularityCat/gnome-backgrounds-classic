@@ -4,7 +4,7 @@
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
-		<_name>Adwaita  π</_name>
+		<_name>Adwaita π</_name>
 		<filename>@BACKGROUNDDIR@/adwaita-pi-timed.xml</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
