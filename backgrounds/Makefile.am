@@ -23,18 +23,21 @@ background_DATA =\
 	Stripes.jpg \
 	Stripes34.jpg \
 	Sunset.jpg \
-	FreshFlower.jpg \
-	Garden.jpg \
-	GreenMeadow.jpg \
-	Spaceflare.jpg \
-	Spaceflare-nova.jpg \
-  Stamps.jpg \
-	Stripes.jpg \
-	Stripes34.jpg \
-	SundownDunes.jpg \
+	FootFall.png \
+	BlueMarbleWest.jpg \
 	Terraform-blue.jpg \
 	Terraform-green.jpg \
 	Terraform-orange.jpg \
+	Spaceflare.jpg \
+	Spaceflare-nova.jpg \
+	Spaceflare-supernova.jpg \
+	SundownDunes.jpg \
+	Stripes.jpg \
+	Aqua.jpg \
+	Blinds.jpg \
+	FreshFlower.jpg \
+	Garden.jpg \
+	GreenMeadow.jpg \
 	TwoWings.jpg \
 	UnderLit.jpg \
 	Tulip.jpg \
@@ -42,6 +45,8 @@ background_DATA =\
 	Waves.jpg \
 	YellowFlower.jpg \
 	ZvonecKonec.jpg
+	Wood.jpg \
+	YellowFlower.jpg
 
 metadata_in_files = gnome-backgrounds.xml.in adwaita.xml.in
 metadatadir = $(datadir)/gnome-background-properties

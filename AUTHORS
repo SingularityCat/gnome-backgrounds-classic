@@ -1,5 +1,6 @@
 Image Authors:
 
+<<<<<<< HEAD
 - adwaita*:
 - Chmiri.jpg:
 - Terraform-green.jpg:
@@ -23,9 +24,18 @@ Image Authors:
 - SundownDunes:
   Copyright © 2011 Garrett LeSage
   Licensed under Creative Commons Attribution-ShareAlike 3.0 License.
+Nature
+ - Terraform:
+ - Spaceflare:
+    Copyright © 2011 Jakub Steiner <jimmac@gmail.com>
+    Licensed under Creative Commons Attribution-ShareAlike 3.0 License.
 
-- Aqua.jpg:
-  Copyright © 2008 Charles Barbin <barbinch@free.fr>
+ - SundownDunes:
+    Copyright © 2011 Garrett LeSage
+    Licensed under Creative Commons Attribution-ShareAlike 3.0 License.
+
+ - Aqua.jpg:
+    Copyright © 2008 Charles Barbin <barbinch@free.fr>
 
 - Blinds.jpg:
   Copyright © 2008 Lennart Poettering <mztabzr@0pointer.de>
@@ -43,23 +53,30 @@ Image Authors:
 - FootFall.png:
   Copyright © 2011 Nieves Sánchez Martínez <nievesanchez@hotmail.com>
   Licensed under Creative Commons Attribution-ShareAlike 3.0 License.
+ - Blinds.jpg:
+    Copyright © 2008 Lennart Poettering <mztabzr@0pointer.de>
+    Copyright © 2008 Andrea Cimitan
 
-- FreshFlower.jpg:
-  Copyright © 2005 Jens Ansorg <jens@ansorg-web.de>
+ - FootFall.png:
+    Copyright © 2011 Nieves Sánchez Martínez <nievesanchez@hotmail.com>
+    Licensed under Creative Commons Attribution-ShareAlike 3.0 License.
 
-- Garden.jpg:
-  Copyright © 2008 Charles Barbin <barbinch@free.fr>
+ - FreshFlower.jpg:
+    Copyright © 2005 Jens Ansorg <jens@ansorg-web.de>
 
-- GreenMeadow.jpg:
-  Copyright © 2005 Timothy Schellhase
-  Copyright © 2008 Lapo Calamandrei
+ - Garden.jpg:
+    Copyright © 2008 Charles Barbin <barbinch@free.fr>
 
-- TwoWings.jpg: Charles Barbin <barbinch@free.fr>
-  Copyright © 2008 Charles Barbin <barbinch@free.fr>
-  Copyright © 2008 Hylke Bons <hylkebons@gmail.com>
+ - GreenMeadow.jpg:
+    Copyright © 2005 Timothy Schellhase
+    Copyright © 2008 Lapo Calamandrei
 
-- Wood.jpg:
-  Copyright © 2008 Jean-François Fortin Tam <nekohayo@gmail.com>
+ - TwoWings.jpg: Charles Barbin <barbinch@free.fr>
+    Copyright © 2008 Charles Barbin <barbinch@free.fr>
+    Copyright © 2008 Hylke Bons <hylkebons@gmail.com>
 
-- YellowFlower.jpg:
-  Copyright © 2008 Charles Barbin <barbinch@free.fr>
+ - Wood.jpg:
+    Copyright © 2008 Jean-François Fortin Tam <nekohayo@gmail.com>
+
+ - YellowFlower.jpg:
+    Copyright © 2008 Charles Barbin <barbinch@free.fr>
