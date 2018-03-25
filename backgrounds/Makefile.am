@@ -15,7 +15,7 @@ background_DATA =\
 	Spaceflare-nova.jpg \
 	Spaceflare-supernova.jpg \
 	UnderLit.jpg \
-	Wood.jpg
+	Wood-classic.jpg
 
 metadata_in_files = gnome-backgrounds-classic.xml.in
 metadatadir = $(datadir)/gnome-background-properties

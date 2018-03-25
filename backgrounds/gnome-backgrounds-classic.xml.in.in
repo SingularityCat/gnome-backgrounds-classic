@@ -103,8 +103,8 @@
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
-		<_name>Wood</_name>
-		<filename>@BACKGROUNDDIR@/Wood.jpg</filename>
+		<_name>Wood (classic)</_name>
+		<filename>@BACKGROUNDDIR@/Wood-classic.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
