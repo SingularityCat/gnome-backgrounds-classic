@@ -1,0 +1,27 @@
+# $Id$
+# Maintainer: Elliot Thomas
+
+pkgname=gnome-backgrounds-classic
+pkgver=@VERSION@
+pkgrel=1
+pkgdesc="Background images and data formerly part of GNOME"
+url="https://github.com/SingularityCat/gnome-backgrounds-classic"
+arch=(any)
+makedepends=(glib2 meson)
+license=(GPL)
+groups=(gnome)
+source=($pkgname-$pkgver.tar.gz)
+
+build() {
+  arch-meson $pkgname-$pkgver build
+  ninja -C build
+}
+
+check() {
+  cd build
+  meson test
+}
+
+package() {
+  DESTDIR="$pkgdir" ninja -C build install
+}
