@@ -1,4 +1,10 @@
 ==============
+Version 3.28.0
+==============
+- merged changes from upstream, made compatible with 3.28.0
+- new build system
+
+==============
 Version 3.16.0
 ==============
 

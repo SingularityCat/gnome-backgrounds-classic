@@ -2,108 +2,84 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Adwaita π</_name>
+		<name>Adwaita π</name>
 		<filename>@BACKGROUNDDIR@/adwaita-pi-timed.xml</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Lock Screen π</_name>
+		<name>Lock Screen π</name>
 		<filename>@BACKGROUNDDIR@/adwaita-pi-lock.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Aqua.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Aqua</_name>
+		<name>Aqua</name>
 		<filename>@BACKGROUNDDIR@/Aqua.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Spaceflare</_name>
+		<name>Spaceflare</name>
 		<filename>@BACKGROUNDDIR@/Spaceflare.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-nova.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Spaceflare Nova</_name>
+		<name>Spaceflare Nova</name>
 		<filename>@BACKGROUNDDIR@/Spaceflare-nova.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-supernova.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Spaceflare Supernova</_name>
+		<name>Spaceflare Supernova</name>
 		<filename>@BACKGROUNDDIR@/Spaceflare-supernova.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Stripes</_name>
+		<name>Stripes</name>
 		<filename>@BACKGROUNDDIR@/Stripes.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes34.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Stripes 3.4</_name>
+		<name>Stripes 3.4</name>
 		<filename>@BACKGROUNDDIR@/Stripes34.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-blue.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Terraform Blue</_name>
+		<name>Terraform Blue</name>
 		<filename>@BACKGROUNDDIR@/Terraform-blue.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-orange.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Terraform Orange</_name>
+		<name>Terraform Orange</name>
 		<filename>@BACKGROUNDDIR@/Terraform-orange.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/UnderLit.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Underlit</_name>
+		<name>Underlit</name>
 		<filename>@BACKGROUNDDIR@/UnderLit.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Wood (classic)</_name>
+		<name>Wood (classic)</name>
 		<filename>@BACKGROUNDDIR@/Wood-classic.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
