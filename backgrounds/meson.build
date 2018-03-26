@@ -13,16 +13,10 @@ backgrounds = [
   'adwaita-pi-lock.jpg',
   'adwaita-pi-morning.jpg',
   'adwaita-pi-night.jpg',
-  'Aqua.jpg',
   'Spaceflare.jpg',
   'Spaceflare-nova.jpg',
-  'Spaceflare-supernova.jpg',
   'Stripes34.jpg',
-  'Stripes.jpg',
-  'Terraform-blue.jpg',
-  'Terraform-orange.jpg',
-  'UnderLit.jpg',
-  'Wood-classic.jpg'
+  'UnderLit.jpg'
 ]
 
 install_data([adwaita_timed] + backgrounds, install_dir: backgrounddir)

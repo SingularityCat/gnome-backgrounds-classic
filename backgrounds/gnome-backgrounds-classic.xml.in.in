@@ -16,13 +16,6 @@
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Aqua</name>
-		<filename>@BACKGROUNDDIR@/Aqua.jpg</filename>
-		<options>zoom</options>
-		<pcolor>#ffffff</pcolor>
-		<scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
 		<name>Spaceflare</name>
 		<filename>@BACKGROUNDDIR@/Spaceflare.jpg</filename>
 		<options>zoom</options>
@@ -37,20 +30,6 @@
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Spaceflare Supernova</name>
-		<filename>@BACKGROUNDDIR@/Spaceflare-supernova.jpg</filename>
-		<options>zoom</options>
-		<pcolor>#ffffff</pcolor>
-		<scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>Stripes</name>
-		<filename>@BACKGROUNDDIR@/Stripes.jpg</filename>
-		<options>zoom</options>
-		<pcolor>#ffffff</pcolor>
-		<scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
 		<name>Stripes 3.4</name>
 		<filename>@BACKGROUNDDIR@/Stripes34.jpg</filename>
 		<options>zoom</options>
@@ -58,29 +37,8 @@
 		<scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Terraform Blue</name>
-		<filename>@BACKGROUNDDIR@/Terraform-blue.jpg</filename>
-		<options>zoom</options>
-		<pcolor>#ffffff</pcolor>
-		<scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>Terraform Orange</name>
-		<filename>@BACKGROUNDDIR@/Terraform-orange.jpg</filename>
-		<options>zoom</options>
-		<pcolor>#ffffff</pcolor>
-		<scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
 		<name>Underlit</name>
 		<filename>@BACKGROUNDDIR@/UnderLit.jpg</filename>
-		<options>zoom</options>
-		<pcolor>#ffffff</pcolor>
-		<scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>Wood (classic)</name>
-		<filename>@BACKGROUNDDIR@/Wood-classic.jpg</filename>
 		<options>zoom</options>
 		<pcolor>#ffffff</pcolor>
 		<scolor>#000000</scolor>
