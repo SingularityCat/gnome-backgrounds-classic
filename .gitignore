@@ -1,0 +1,4 @@
+/dist/arch
+!/dist/arch/PKGBUILD.in
+
+/dist/gnome-backgrounds-classic.tar.gz
